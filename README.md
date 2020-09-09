@@ -1,2 +1,3 @@
 # Hello-friends
-First repository
+I should write there somthing new according the 
+Task. 
